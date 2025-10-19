@@ -1,0 +1,120 @@
+,Record #,League,Team,Wins,Losses,Win %,Year
+0,1,NL,Chicago Cubs,110,36,0.763,1906
+1,2,AL,Seattle Mariners,116,46,0.716,2001
+2,3,AL,New York Yankees,114,48,0.704,1998
+3,4,AL,Cleveland Indians,111,43,0.721,1954
+4,5,NL,Los Angeles Dodgers,111,51,0.685,2022
+5,6,NL,Pittsburgh Pirates,110,42,0.724,1909
+6,7,AL,New York Yankees,110,44,0.714,1927
+7,8,AL,New York Yankees,109,53,0.673,1961
+8,9,AL,Baltimore Orioles,109,53,0.673,1969
+9,10,AL,Baltimore Orioles,108,54,0.667,1970
+10,11,NL,Cincinnati Reds,108,54,0.667,1975
+11,12,NL,New York Mets,108,54,0.667,1986
+12,13,AL,Boston Red Sox,108,54,0.667,2018
+13,14,NL,Chicago Cubs,107,45,0.704,1907
+14,15,AL,Philadelphia Athletics,107,45,0.704,1931
+15,16,AL,New York Yankees,107,47,0.695,1932
+16,17,AL,Houston Astros,107,55,0.66,2019
+17,18,NL,San Francisco Giants,107,55,0.66,2021
+18,19,NL,New York Giants,106,47,0.693,1904
+19,20,AL,New York Yankees,106,45,0.702,1939
+20,21,NL,St. Louis Cardinals,106,48,0.688,1942
+21,22,NL,Atlanta Braves,106,56,0.654,1998
+22,23,NL,Los Angeles Dodgers,106,56,0.654,2019
+23,24,NL,Los Angeles Dodgers,106,56,0.654,2021
+24,25,AL,Houston Astros,106,56,0.654,2022
+25,26,NL,New York Giants,105,48,0.686,1905
+26,27,AL,Boston Red Sox,105,47,0.691,1912
+27,28,NL,St. Louis Cardinals,105,49,0.682,1943
+28,29,NL,St. Louis Cardinals,105,49,0.682,1944
+29,30,NL,Brooklyn Dodgers,105,49,0.682,1953
+30,31,NL,St. Louis Cardinals,105,57,0.648,2004
+31,32,NL,Chicago Cubs,104,49,0.68,1909
+32,33,NL,Chicago Cubs,104,50,0.675,1910
+33,34,AL,Philadelphia Athletics,104,46,0.693,1929
+34,35,NL,Brooklyn Dodgers,104,50,0.675,1942
+35,36,AL,Boston Red Sox,104,50,0.675,1946
+36,37,AL,New York Yankees,104,57,0.646,1963
+37,38,AL,Detroit Tigers,104,58,0.642,1984
+38,39,AL,Oakland Athletics,104,58,0.642,1988
+39,40,NL,Atlanta Braves,104,58,0.642,1993
+40,41,NL,Los Angeles Dodgers,104,58,0.642,2017
+41,42,NL,Atlanta Braves,104,58,0.642,2023
+42,43,NL,Pittsburgh Pirates,103,36,0.741,1902
+43,44,NL,New York Giants,103,48,0.682,1912
+44,45,AL,New York Yankees,103,51,0.669,1942
+45,46,AL,New York Yankees,103,51,0.669,1954
+46,47,NL,San Francisco Giants,103,62,0.624,1962
+47,48,AL,Detroit Tigers,103,59,0.636,1968
+48,49,AL,New York Yankees,103,59,0.636,1980
+49,50,AL,Oakland Athletics,103,59,0.636,1990
+50,51,NL,San Francisco Giants,103,59,0.636,1993
+51,52,NL,Atlanta Braves,103,59,0.636,1999
+52,53,AL,New York Yankees,103,58,0.64,2002
+53,54,AL,Oakland Athletics,103,59,0.636,2002
+54,55,AL,New York Yankees,103,59,0.636,2009
+55,56,NL,Chicago Cubs,103,58,0.64,2016
+56,57,AL,Houston Astros,103,59,0.636,2018
+57,58,AL,New York Yankees,103,59,0.636,2019
+58,59,NL,Boston Beaneaters,102,48,0.68,1892
+59,60,NL,Boston Beaneaters,102,47,0.685,1898
+60,61,AL,Philadelphia Athletics,102,48,0.68,1910
+61,62,AL,Philadelphia Athletics,102,52,0.662,1930
+62,63,AL,New York Yankees,102,51,0.667,1936
+63,64,AL,New York Yankees,102,52,0.662,1937
+64,65,NL,Los Angeles Dodgers,102,63,0.618,1962
+65,66,AL,Minnesota Twins,102,60,0.63,1965
+66,67,NL,Cincinnati Reds,102,60,0.63,1970
+67,68,NL,Los Angeles Dodgers,102,60,0.63,1974
+68,69,NL,Cincinnati Reds,102,60,0.63,1976
+69,70,AL,Kansas City Royals,102,60,0.63,1977
+70,71,AL,Baltimore Orioles,102,57,0.642,1979
+71,72,NL,Houston Astros,102,60,0.63,1998
+72,73,AL,Oakland Athletics,102,60,0.63,2001
+73,74,NL,Philadelphia Phillies,102,60,0.63,2011
+74,75,AL,Cleveland Indians,102,60,0.63,2017
+75,76,NL,Brooklyn Superbas,101,47,0.682,1899
+76,77,AL,Philadelphia Athletics,101,50,0.669,1911
+77,78,NL,New York Giants,101,51,0.664,1913
+78,79,AL,Boston Red Sox,101,50,0.669,1915
+79,80,AL,New York Yankees,101,53,0.656,1928
+80,81,NL,St. Louis Cardinals,101,53,0.656,1931
+81,82,AL,Detroit Tigers,101,53,0.656,1934
+82,83,AL,New York Yankees,101,53,0.656,1941
+83,84,AL,Detroit Tigers,101,61,0.623,1961
+84,85,NL,St. Louis Cardinals,101,60,0.627,1967
+85,86,AL,Baltimore Orioles,101,57,0.639,1971
+86,87,AL,Oakland Athletics,101,60,0.627,1971
+87,88,NL,Philadelphia Phillies,101,61,0.623,1976
+88,89,NL,Philadelphia Phillies,101,61,0.623,1977
+89,90,NL,St. Louis Cardinals,101,61,0.623,1985
+90,91,NL,Atlanta Braves,101,61,0.623,1997
+91,92,NL,Atlanta Braves,101,59,0.631,2002
+92,93,AL,New York Yankees,101,61,0.623,2003
+93,94,NL,Atlanta Braves,101,61,0.623,2003
+94,95,AL,New York Yankees,101,61,0.623,2004
+95,96,AL,Houston Astros,101,61,0.623,2017
+96,97,AL,Minnesota Twins,101,61,0.623,2019
+97,98,NL,Atlanta Braves,101,61,0.623,2022
+98,99,NL,New York Mets,101,61,0.623,2022
+99,100,AL,Baltimore Orioles,101,61,0.623,2023
+100,101,AL,Detroit Tigers,100,54,0.649,1915
+101,102,AL,Chicago White Sox,100,54,0.649,1917
+102,103,NL,Chicago Cubs,100,54,0.649,1935
+103,104,NL,Cincinnati Reds,100,53,0.654,1940
+104,105,NL,Brooklyn Dodgers,100,54,0.649,1941
+105,106,NL,New York Mets,100,62,0.617,1969
+106,107,AL,New York Yankees,100,62,0.617,1977
+107,108,AL,New York Yankees,100,63,0.613,1978
+108,109,AL,Baltimore Orioles,100,62,0.617,1980
+109,110,NL,New York Mets,100,60,0.625,1988
+110,111,AL,Cleveland Indians,100,44,0.694,1995
+111,112,NL,Arizona Diamondbacks,100,62,0.617,1999
+112,113,NL,San Francisco Giants,100,61,0.621,2003
+113,114,NL,St. Louis Cardinals,100,62,0.617,2005
+114,115,AL,Los Angeles Angels,100,62,0.617,2008
+115,116,NL,St. Louis Cardinals,100,62,0.617,2015
+116,117,AL,New York Yankees,100,62,0.617,2018
+117,118,AL,Tampa Bay Rays,100,62,0.617,2021
+118,119,NL,Los Angeles Dodgers,100,62,0.617,2023

@@ -1,0 +1,120 @@
+Record #,League,Team,Wins,Losses,Win %,Year
+1,NL,1906 Chicago Cubs,110,36,.763,1906
+,AL,2001 Seattle Mariners,116,46,.716,2001
+3,AL,1998 New York Yankees,114,48,.704,1998
+4,AL,1954 Cleveland Indians,111,43,.721,1954
+,NL,2022 Los Angeles Dodgers,111,51,.685,2022
+6,NL,1909 Pittsburgh Pirates,110,42,.724,1909
+,AL,1927 New York Yankees,110,44,.714,1927
+8,AL,1961 New York Yankees,109,53,.673,1961
+,AL,1969 Baltimore Orioles,109,53,.673,1969
+10,AL,1970 Baltimore Orioles,108,54,.667,1970
+,NL,1975 Cincinnati Reds,108,54,.667,1975
+,NL,1986 New York Mets,108,54,.667,1986
+,AL,2018 Boston Red Sox,108,54,.667,2018
+14,NL,1907 Chicago Cubs,107,45,.704,1907
+,AL,1931 Philadelphia Athletics,107,45,.704,1931
+,AL,1932 New York Yankees,107,47,.695,1932
+,AL,2019 Houston Astros,107,55,.660,2019
+,NL,2021 San Francisco Giants,107,55,.660,2021
+19,NL,1904 New York Giants,106,47,.693,1904
+,AL,1939 New York Yankees,106,45,.702,1939
+,NL,1942 St. Louis Cardinals,106,48,.688,1942
+,NL,1998 Atlanta Braves,106,56,.654,1998
+,NL,2019 Los Angeles Dodgers,106,56,.654,2019
+,NL,2021 Los Angeles Dodgers,106,56,.654,2021
+,AL,2022 Houston Astros,106,56,.654,2022
+26,NL,1905 New York Giants,105,48,.686,1905
+,AL,1912 Boston Red Sox,105,47,.691,1912
+,NL,1943 St. Louis Cardinals,105,49,.682,1943
+,NL,1944 St. Louis Cardinals,105,49,.682,1944
+,NL,1953 Brooklyn Dodgers,105,49,.682,1953
+,NL,2004 St. Louis Cardinals,105,57,.648,2004
+32,NL,1909 Chicago Cubs,104,49,.680,1909
+,NL,1910 Chicago Cubs,104,50,.675,1910
+,AL,1929 Philadelphia Athletics,104,46,.693,1929
+,NL,1942 Brooklyn Dodgers,104,50,.675,1942
+,AL,1946 Boston Red Sox,104,50,.675,1946
+,AL,1963 New York Yankees,104,57,.646,1963
+,AL,1984 Detroit Tigers,104,58,.642,1984
+,AL,1988 Oakland Athletics,104,58,.642,1988
+,NL,1993 Atlanta Braves,104,58,.642,1993
+,NL,2017 Los Angeles Dodgers,104,58,.642,2017
+,NL,2023 Atlanta Braves,104,58,.642,2023
+43,NL,1902 Pittsburgh Pirates,103,36,.741,1902
+,NL,1912 New York Giants,103,48,.682,1912
+,AL,1942 New York Yankees,103,51,.669,1942
+,AL,1954 New York Yankees,103,51,.669,1954
+,NL,1962 San Francisco Giants,103,62,.624,1962
+,AL,1968 Detroit Tigers,103,59,.636,1968
+,AL,1980 New York Yankees,103,59,.636,1980
+,AL,1990 Oakland Athletics,103,59,.636,1990
+,NL,1993 San Francisco Giants,103,59,.636,1993
+,NL,1999 Atlanta Braves,103,59,.636,1999
+,AL,2002 New York Yankees,103,58,.640,2002
+,AL,2002 Oakland Athletics,103,59,.636,2002
+,AL,2009 New York Yankees,103,59,.636,2009
+,NL,2016 Chicago Cubs,103,58,.640,2016
+,AL,2018 Houston Astros,103,59,.636,2018
+,AL,2019 New York Yankees,103,59,.636,2019
+59,NL,1892 Boston Beaneaters,102,48,.680,1892
+,NL,1898 Boston Beaneaters,102,47,.685,1898
+,AL,1910 Philadelphia Athletics,102,48,.680,1910
+,AL,1930 Philadelphia Athletics,102,52,.662,1930
+,AL,1936 New York Yankees,102,51,.667,1936
+,AL,1937 New York Yankees,102,52,.662,1937
+,NL,1962 Los Angeles Dodgers,102,63,.618,1962
+,AL,1965 Minnesota Twins,102,60,.630,1965
+,NL,1970 Cincinnati Reds,102,60,.630,1970
+,NL,1974 Los Angeles Dodgers,102,60,.630,1974
+,NL,1976 Cincinnati Reds,102,60,.630,1976
+,AL,1977 Kansas City Royals,102,60,.630,1977
+,AL,1979 Baltimore Orioles,102,57,.642,1979
+,NL,1998 Houston Astros,102,60,.630,1998
+,AL,2001 Oakland Athletics,102,60,.630,2001
+,NL,2011 Philadelphia Phillies,102,60,.630,2011
+,AL,2017 Cleveland Indians,102,60,.630,2017
+76,NL,1899 Brooklyn Superbas,101,47,.682,1899
+,AL,1911 Philadelphia Athletics,101,50,.669,1911
+,NL,1913 New York Giants,101,51,.664,1913
+,AL,1915 Boston Red Sox,101,50,.669,1915
+,AL,1928 New York Yankees,101,53,.656,1928
+,NL,1931 St. Louis Cardinals,101,53,.656,1931
+,AL,1934 Detroit Tigers,101,53,.656,1934
+,AL,1941 New York Yankees,101,53,.656,1941
+,AL,1961 Detroit Tigers,101,61,.623,1961
+,NL,1967 St. Louis Cardinals,101,60,.627,1967
+,AL,1971 Baltimore Orioles,101,57,.639,1971
+,AL,1971 Oakland Athletics,101,60,.627,1971
+,NL,1976 Philadelphia Phillies,101,61,.623,1976
+,NL,1977 Philadelphia Phillies,101,61,.623,1977
+,NL,1985 St. Louis Cardinals,101,61,.623,1985
+,NL,1997 Atlanta Braves,101,61,.623,1997
+,NL,2002 Atlanta Braves,101,59,.631,2002
+,AL,2003 New York Yankees,101,61,.623,2003
+,NL,2003 Atlanta Braves,101,61,.623,2003
+,AL,2004 New York Yankees,101,61,.623,2004
+,AL,2017 Houston Astros,101,61,.623,2017
+,AL,2019 Minnesota Twins,101,61,.623,2019
+,NL,2022 Atlanta Braves,101,61,.623,2022
+,NL,2022 New York Mets,101,61,.623,2022
+,AL,2023 Baltimore Orioles,101,61,.623,2023
+101,AL,1915 Detroit Tigers,100,54,.649,1915
+,AL,1917 Chicago White Sox,100,54,.649,1917
+,NL,1935 Chicago Cubs,100,54,.649,1935
+,NL,1940 Cincinnati Reds,100,53,.654,1940
+,NL,1941 Brooklyn Dodgers,100,54,.649,1941
+,NL,1969 New York Mets,100,62,.617,1969
+,AL,1977 New York Yankees,100,62,.617,1977
+,AL,1978 New York Yankees,100,63,.613,1978
+,AL,1980 Baltimore Orioles,100,62,.617,1980
+,NL,1988 New York Mets,100,60,.625,1988
+,AL,1995 Cleveland Indians,100,44,.694,1995
+,NL,1999 Arizona Diamondbacks,100,62,.617,1999
+,NL,2003 San Francisco Giants,100,61,.621,2003
+,NL,2005 St. Louis Cardinals,100,62,.617,2005
+,AL,2008 Los Angeles Angels,100,62,.617,2008
+,NL,2015 St. Louis Cardinals,100,62,.617,2015
+,AL,2018 New York Yankees,100,62,.617,2018
+,AL,2021 Tampa Bay Rays,100,62,.617,2021
+,NL,2023 Los Angeles Dodgers,100,62,.617,2023
