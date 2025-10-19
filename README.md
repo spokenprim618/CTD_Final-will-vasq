@@ -8,3 +8,4 @@ This is the pipeline and visualization of MLB stats centered around wins. Below 
 ![First section of webpage](./images/image1.png "First")
 ![Second section of webpage](./images/image2.png "Second")
 [Project Link](https://spokenprim618-ctd-final-will-vasq-my-app-ktlmcq.streamlit.app/)
+[Youtube Link of Project](https://youtu.be/tYl3TZyAu7s)
