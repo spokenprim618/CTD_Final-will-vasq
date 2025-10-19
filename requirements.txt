@@ -5,6 +5,4 @@ streamlit==1.24.0
 selenium==4.15.2
 plotly
 pyreadline3
-sys
 numpy
-os
