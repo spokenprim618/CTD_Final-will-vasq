@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-df = pd.read_csv("../csv/cleaned_100_win_seasons.csv")
+df = pd.read_csv("./csv/cleaned_100_win_seasons.csv")
 np.random.seed(10)
 
 st.title("MLB Wins Dashboard")
