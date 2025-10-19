@@ -6,3 +6,5 @@ selenium==4.15.2
 plotly
 pyreadline3
 numpy
+pillow==9.5.0
+
