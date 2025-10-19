@@ -1,7 +1,7 @@
 pandas==2.2.3
 sqlalchemy==2.0.36
 nbstripout==0.8.1
-streamlit==1.24.0
+streamlit
 selenium==4.15.2
 plotly
 pyreadline3
