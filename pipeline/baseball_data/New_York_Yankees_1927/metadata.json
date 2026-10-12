@@ -1,0 +1,85 @@
+{
+  "team": "New York Yankees",
+  "team_code": "NYA",
+  "year": 1927,
+  "pages": {
+    "roster": {
+      "url": "https://www.baseball-almanac.com/teamstats/roster.php?t=NYA&y=1927",
+      "title": "ROSTER FOR THE 1927 NEW YORK YANKEES",
+      "status": "saved",
+      "rows": 25,
+      "columns": [
+        "Player",
+        "Position"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:52:33.008888+00:00"
+    },
+    "schedule": {
+      "url": "https://www.baseball-almanac.com/teamstats/schedule.php?t=NYA&y=1927",
+      "title": "1927 NEW YORK YANKEES SCHEDULE",
+      "status": "saved",
+      "rows": 155,
+      "columns": [
+        "Game",
+        "Date",
+        "Opponent",
+        "Score",
+        "Decision",
+        "Record"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:52:56.009196+00:00"
+    },
+    "hitting": {
+      "url": "https://www.baseball-almanac.com/teamstats/hitting.php?t=NYA&y=1927",
+      "title": "1927 NEW YORK YANKEES HITTING STATS",
+      "status": "saved",
+      "rows": 25,
+      "columns": [
+        "Name",
+        "G",
+        "AB",
+        "R",
+        "H",
+        "2B",
+        "3B",
+        "HR",
+        "RBI",
+        "BB",
+        "IBB",
+        "SO",
+        "AVG",
+        "OBP",
+        "SLG"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:53:11.291094+00:00"
+    },
+    "pitching": {
+      "url": "https://www.baseball-almanac.com/teamstats/pitching.php?t=NYA&y=1927",
+      "title": "1927 NEW YORK YANKEES PITCHING STATS",
+      "status": "saved",
+      "rows": 10,
+      "columns": [
+        "Name",
+        "G",
+        "GS",
+        "W",
+        "L",
+        "PCT",
+        "ERA",
+        "SV",
+        "IP",
+        "H",
+        "ER",
+        "R",
+        "HR",
+        "BB",
+        "SO"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:53:26.095157+00:00"
+    }
+  }
+}

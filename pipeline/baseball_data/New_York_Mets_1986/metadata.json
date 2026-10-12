@@ -1,0 +1,85 @@
+{
+  "team": "New York Mets",
+  "team_code": "NYN",
+  "year": 1986,
+  "pages": {
+    "roster": {
+      "url": "https://www.baseball-almanac.com/teamstats/roster.php?t=NYN&y=1986",
+      "title": "ROSTER FOR THE 1986 NEW YORK METS",
+      "status": "saved",
+      "rows": 36,
+      "columns": [
+        "Player",
+        "Position"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:53:42.115847+00:00"
+    },
+    "schedule": {
+      "url": "https://www.baseball-almanac.com/teamstats/schedule.php?t=NYN&y=1986",
+      "title": "1986 NEW YORK METS SCHEDULE",
+      "status": "saved",
+      "rows": 162,
+      "columns": [
+        "Game",
+        "Date",
+        "Opponent",
+        "Score",
+        "Decision",
+        "Record"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:53:57.006279+00:00"
+    },
+    "hitting": {
+      "url": "https://www.baseball-almanac.com/teamstats/hitting.php?t=NYN&y=1986",
+      "title": "1986 NEW YORK METS HITTING STATS",
+      "status": "saved",
+      "rows": 36,
+      "columns": [
+        "Name",
+        "G",
+        "AB",
+        "R",
+        "H",
+        "2B",
+        "3B",
+        "HR",
+        "RBI",
+        "BB",
+        "IBB",
+        "SO",
+        "AVG",
+        "OBP",
+        "SLG"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:54:11.387152+00:00"
+    },
+    "pitching": {
+      "url": "https://www.baseball-almanac.com/teamstats/pitching.php?t=NYN&y=1986",
+      "title": "1986 NEW YORK METS PITCHING STATS",
+      "status": "saved",
+      "rows": 15,
+      "columns": [
+        "Name",
+        "G",
+        "GS",
+        "W",
+        "L",
+        "PCT",
+        "ERA",
+        "SV",
+        "IP",
+        "H",
+        "ER",
+        "R",
+        "HR",
+        "BB",
+        "SO"
+      ],
+      "warnings": [],
+      "scraped_at_utc": "2026-10-12T03:54:27.877710+00:00"
+    }
+  }
+}

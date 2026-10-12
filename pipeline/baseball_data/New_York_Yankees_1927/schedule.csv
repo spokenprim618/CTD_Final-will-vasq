@@ -1,0 +1,156 @@
+﻿Game,Date,Opponent,Score,Decision,Record
+1,04-12-1927,vs Philadelphia Athletics,8-3,W,1-0
+2,04-13-1927,vs Philadelphia Athletics,10-4,W,2-0
+3,04-14-1927,vs Philadelphia Athletics,9-9,T,2-0-1
+4,04-15-1927,vs Philadelphia Athletics,6-3,W,3-0-1
+5,04-16-1927,vs Boston Red Sox,5-2,W,4-0-1
+6,04-17-1927,vs Boston Red Sox,14-2,W,5-0-1
+7,04-18-1927,vs Boston Red Sox,3-0,W,6-0-1
+8,04-19-1927,vs Boston Red Sox,3-6,L,6-1-1
+9,04-20-1927,at Philadelphia Athletics,5-8,L,6-2-1
+10,04-21-1927,at Philadelphia Athletics,13-6,W,7-2-1
+11,04-23-1927,at Philadelphia Athletics,3-4,L,7-3-1
+12,04-24-1927,at Washington Senators,6-2,W,8-3-1
+13,04-25-1927,vs Washington Senators,4-5,L,8-4-1
+14,04-29-1927,at Boston Red Sox,9-0,W,9-4-1
+15,04-30-1927,at Boston Red Sox,2-3,L,9-5-1
+16,05-01-1927,vs Philadelphia Athletics,7-3,W,10-5-1
+17,05-02-1927,at Washington Senators,9-6,W,11-5-1
+18,05-03-1927,at Washington Senators,6-4,W,12-5-1
+19,05-04-1927,at Washington Senators,4-7,L,12-6-1
+20,05-05-1927,at Washington Senators,1-6,L,12-7-1
+21,05-07-1927,at Chicago White Sox,8-0,W,13-7-1
+22,05-08-1927,at Chicago White Sox,9-0,W,14-7-1
+23,05-09-1927,at Chicago White Sox,1-2,L,14-8-1
+24,05-10-1927,at St. Louis Browns,8-7,W,15-8-1
+25,05-11-1927,at St. Louis Browns,4-2,W,16-8-1
+26,05-12-1927,at St. Louis Browns,4-3,W,17-8-1
+27,05-13-1927,at St. Louis Browns,3-1,W,18-8-1
+28,05-16-1927,at Detroit Tigers,6-2,W,19-8-1
+29,05-17-1927,at Detroit Tigers,9-2,W,20-8-1
+30,05-19-1927,at Cleveland Indians,4-3,W,21-8-1
+31,05-20-1927,at Cleveland Indians,1-2,L,21-9-1
+32,05-21-1927,at Cleveland Indians,4-5,L,21-10-1
+33,05-22-1927,at Cleveland Indians,7-2,W,22-10-1
+34,05-23-1927,at Washington Senators,2-3,L,22-11-1
+35-I,05-27-1927,vs Washington Senators,2-7,L,22-12-1
+36-II,05-27-1927,vs Washington Senators,5-0,W,23-12-1
+37-I,05-28-1927,vs Washington Senators,8-2,W,24-12-1
+38-II,05-28-1927,vs Washington Senators,2-3,L,24-13-1
+39,05-29-1927,vs Boston Red Sox,15-7,W,25-13-1
+40-I,05-30-1927,at Philadelphia Athletics,8-9,L,25-14-1
+41-II,05-30-1927,at Philadelphia Athletics,6-5,W,26-14-1
+42-I,05-31-1927,at Philadelphia Athletics,10-3,W,27-14-1
+43-II,05-31-1927,at Philadelphia Athletics,18-5,W,28-14-1
+44,06-01-1927,at Philadelphia Athletics,2-1,W,29-14-1
+45,06-02-1927,vs Detroit Tigers,2-0,W,30-14-1
+46,06-03-1927,vs Detroit Tigers,1-3,L,30-15-1
+47,06-05-1927,vs Detroit Tigers,5-3,W,31-15-1
+48,06-07-1927,vs Chicago White Sox,4-1,W,32-15-1
+49,06-08-1927,vs Chicago White Sox,12-11,W,33-15-1
+50,06-09-1927,vs Chicago White Sox,8-3,W,34-15-1
+51,06-10-1927,vs Chicago White Sox,2-4,L,34-16-1
+52,06-11-1927,vs Cleveland Indians,6-4,W,35-16-1
+53,06-12-1927,vs Cleveland Indians,7-8,L,35-17-1
+54,06-13-1927,vs Cleveland Indians,14-6,W,36-17-1
+55,06-16-1927,vs St. Louis Browns,8-1,W,37-17-1
+56,06-17-1927,vs St. Louis Browns,3-2,W,38-17-1
+57,06-18-1927,vs St. Louis Browns,8-4,W,39-17-1
+58-I,06-21-1927,at Boston Red Sox,7-3,W,40-17-1
+59-II,06-21-1927,at Boston Red Sox,7-1,W,41-17-1
+60-I,06-22-1927,at Boston Red Sox,7-4,W,42-17-1
+61-II,06-22-1927,at Boston Red Sox,3-2,W,43-17-1
+62,06-23-1927,at Boston Red Sox,11-4,W,44-17-1
+63-I,06-25-1927,vs Philadelphia Athletics,6-7,L,44-18-1
+64-II,06-25-1927,vs Philadelphia Athletics,2-4,L,44-19-1
+65-I,06-26-1927,vs Philadelphia Athletics,2-4,L,44-20-1
+66-II,06-26-1927,vs Philadelphia Athletics,7-3,W,45-20-1
+67,06-27-1927,vs Philadelphia Athletics,6-2,W,46-20-1
+68,06-28-1927,vs Philadelphia Athletics,9-8,W,47-20-1
+69,06-29-1927,vs Boston Red Sox,8-2,W,48-20-1
+70,06-30-1927,vs Boston Red Sox,13-6,W,49-20-1
+71,07-01-1927,vs Boston Red Sox,7-4,W,50-20-1
+72,07-02-1927,vs Boston Red Sox,3-2,W,51-20-1
+73,07-03-1927,at Washington Senators,5-6,L,51-21-1
+74-I,07-04-1927,vs Washington Senators,12-1,W,52-21-1
+75-II,07-04-1927,vs Washington Senators,21-1,W,53-21-1
+76,07-05-1927,vs Washington Senators,7-6,W,54-21-1
+77-I,07-08-1927,at Detroit Tigers,8-11,L,54-22-1
+78-II,07-08-1927,at Detroit Tigers,10-8,W,55-22-1
+79-I,07-09-1927,at Detroit Tigers,19-7,W,56-22-1
+80-II,07-09-1927,at Detroit Tigers,4-14,L,56-23-1
+81,07-10-1927,at Detroit Tigers,3-6,L,56-24-1
+82,07-11-1927,at Detroit Tigers,8-5,W,57-24-1
+83,07-12-1927,at Cleveland Indians,7-0,W,58-24-1
+84,07-13-1927,at Cleveland Indians,5-3,W,59-24-1
+85,07-14-1927,at Cleveland Indians,1-4,L,59-25-1
+86,07-15-1927,at Cleveland Indians,10-9,W,60-25-1
+87,07-16-1927,at St. Louis Browns,5-2,W,61-25-1
+88,07-17-1927,at St. Louis Browns,5-4,W,62-25-1
+89,07-18-1927,at St. Louis Browns,10-6,W,63-25-1
+90,07-19-1927,at St. Louis Browns,6-1,W,64-25-1
+91,07-21-1927,at Chicago White Sox,4-1,W,65-25-1
+92,07-22-1927,at Chicago White Sox,5-7,L,65-26-1
+93,07-23-1927,at Chicago White Sox,5-2,W,66-26-1
+94,07-24-1927,at Chicago White Sox,3-2,W,67-26-1
+95-I,07-26-1927,vs St. Louis Browns,15-1,W,68-26-1
+96-II,07-26-1927,vs St. Louis Browns,12-3,W,69-26-1
+97,07-27-1927,vs St. Louis Browns,4-1,W,70-26-1
+98,07-28-1927,vs St. Louis Browns,9-4,W,71-26-1
+99,07-29-1927,vs Cleveland Indians,4-6,L,71-27-1
+100-I,07-30-1927,vs Cleveland Indians,7-3,W,72-27-1
+101-II,07-30-1927,vs Cleveland Indians,5-0,W,73-27-1
+102,08-01-1927,vs Cleveland Indians,1-2,L,73-28-1
+103-I,08-03-1927,vs Detroit Tigers,5-6,L,73-29-1
+104-II,08-03-1927,vs Detroit Tigers,8-6,W,74-29-1
+105,08-04-1927,vs Detroit Tigers,2-6,L,74-30-1
+106,08-05-1927,vs Detroit Tigers,5-2,W,75-30-1
+107,08-06-1927,vs Chicago White Sox,3-6,L,75-31-1
+108,08-07-1927,vs Chicago White Sox,4-3,W,76-31-1
+109,08-09-1927,at Philadelphia Athletics,1-8,L,76-32-1
+110,08-10-1927,at Washington Senators,4-3,W,77-32-1
+111,08-11-1927,at Washington Senators,2-3,L,77-33-1
+112,08-13-1927,at Washington Senators,6-3,W,78-33-1
+113,08-14-1927,at Washington Senators,6-2,W,79-33-1
+114,08-16-1927,at Chicago White Sox,8-1,W,80-33-1
+115,08-17-1927,at Chicago White Sox,3-2,W,81-33-1
+116,08-18-1927,at Chicago White Sox,5-4,W,82-33-1
+117,08-19-1927,at Chicago White Sox,2-3,L,82-34-1
+118,08-20-1927,at Cleveland Indians,8-14,L,82-35-1
+119,08-21-1927,at Cleveland Indians,4-7,L,82-36-1
+120,08-22-1927,at Cleveland Indians,4-9,L,82-37-1
+121,08-24-1927,at Detroit Tigers,9-5,W,83-37-1
+122,08-25-1927,at Detroit Tigers,8-2,W,84-37-1
+123,08-26-1927,at Detroit Tigers,8-6,W,85-37-1
+124,08-27-1927,at St. Louis Browns,14-4,W,86-37-1
+125,08-28-1927,at St. Louis Browns,10-6,W,87-37-1
+126,08-29-1927,at St. Louis Browns,8-3,W,88-37-1
+127,08-31-1927,vs Boston Red Sox,10-3,W,89-37-1
+128,09-02-1927,at Philadelphia Athletics,12-2,W,90-37-1
+129,09-03-1927,at Philadelphia Athletics,0-1,L,90-38-1
+130-I,09-05-1927,at Boston Red Sox,11-12,L,90-39-1
+131-II,09-05-1927,at Boston Red Sox,5-0,W,91-39-1
+132-I,09-06-1927,at Boston Red Sox,14-2,W,92-39-1
+133-II,09-06-1927,at Boston Red Sox,2-5,L,92-40-1
+134,09-07-1927,at Boston Red Sox,12-10,W,93-40-1
+135,09-08-1927,vs St. Louis Browns,2-1,W,94-40-1
+136,09-09-1927,vs St. Louis Browns,9-3,W,95-40-1
+137,09-10-1927,vs St. Louis Browns,1-0,W,96-40-1
+138,09-11-1927,vs St. Louis Browns,2-6,L,96-41-1
+139-I,09-13-1927,vs Cleveland Indians,5-3,W,97-41-1
+140-II,09-13-1927,vs Cleveland Indians,5-3,W,98-41-1
+141,09-14-1927,vs Cleveland Indians,4-1,W,99-41-1
+142,09-15-1927,vs Cleveland Indians,2-3,L,99-42-1
+143,09-16-1927,vs Chicago White Sox,7-2,W,100-42-1
+144-I,09-17-1927,vs Chicago White Sox,3-2,W,101-42-1
+145-II,09-17-1927,vs Chicago White Sox,8-1,W,102-42-1
+146-I,09-18-1927,vs Chicago White Sox,2-1,W,103-42-1
+147-II,09-18-1927,vs Chicago White Sox,5-1,W,104-42-1
+148,09-21-1927,vs Detroit Tigers,1-6,L,104-43-1
+149,09-22-1927,vs Detroit Tigers,8-7,W,105-43-1
+150,09-24-1927,vs Detroit Tigers,6-0,W,106-43-1
+151,09-25-1927,vs Detroit Tigers,1-6,L,106-44-1
+152,09-27-1927,vs Philadelphia Athletics,7-4,W,107-44-1
+153,09-29-1927,vs Washington Senators,15-4,W,108-44-1
+154,09-30-1927,vs Washington Senators,4-2,W,109-44-1
+155,10-01-1927,vs Washington Senators,4-3,W,110-44-1

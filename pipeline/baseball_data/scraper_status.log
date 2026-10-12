@@ -1,0 +1,142 @@
+23:52:22 | INFO    | Starting scraper: 3 teams, 4 categories, request limit 12
+23:52:22 | INFO    | Output folder: C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data
+23:52:22 | INFO    | Checking hardcoded robots.txt snapshot (user-provided; not live-verified)
+23:52:22 | INFO    | === Team: New York Yankees (1927) ===
+23:52:22 | INFO    | [1/12] Loading https://www.baseball-almanac.com/teamstats/roster.php?t=NYA&y=1927
+23:52:24 | INFO    | Page verified: ROSTER FOR THE 1927 NEW YORK YANKEES
+23:52:28 | INFO    | Expected roster table rows detected
+23:52:28 | INFO    | Capturing page HTML in one Selenium command
+23:52:32 | INFO    | Captured 117806 HTML characters; parsing locally
+23:52:32 | INFO    | Roster position groups found: Catcher, Infielder, Outfielder, Pitcher
+23:52:32 | INFO    | Roster: 25 player records extracted
+23:52:33 | INFO    | SAVED 25 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Yankees_1927\roster.csv
+23:52:33 | INFO    | Completed roster in 10.8 seconds
+23:52:38 | INFO    | Selenium quit finished
+23:52:38 | INFO    | Verified browser and ChromeDriver processes exited
+23:52:38 | INFO    | Waiting 15.0 seconds before next request
+23:52:53 | INFO    | [2/12] Loading https://www.baseball-almanac.com/teamstats/schedule.php?t=NYA&y=1927
+23:52:55 | INFO    | Page verified: 1927 NEW YORK YANKEES SCHEDULE
+23:52:55 | INFO    | Expected schedule table rows detected
+23:52:55 | INFO    | Capturing page HTML in one Selenium command
+23:52:55 | INFO    | Captured 159821 HTML characters; parsing locally
+23:52:56 | INFO    | Schedule: 160 tbody rows, 155 data rows, 0 skipped
+23:52:56 | INFO    | SAVED 155 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Yankees_1927\schedule.csv
+23:52:56 | INFO    | Completed schedule in 2.3 seconds
+23:52:58 | INFO    | Selenium quit finished
+23:52:58 | INFO    | Verified browser and ChromeDriver processes exited
+23:52:58 | INFO    | Waiting 10.7 seconds before next request
+23:53:09 | INFO    | [3/12] Loading https://www.baseball-almanac.com/teamstats/hitting.php?t=NYA&y=1927
+23:53:10 | INFO    | Page verified: 1927 NEW YORK YANKEES HITTING STATS
+23:53:11 | INFO    | Expected hitting table rows detected
+23:53:11 | INFO    | Capturing page HTML in one Selenium command
+23:53:11 | INFO    | Captured 88865 HTML characters; parsing locally
+23:53:11 | INFO    | Hitting: 15 headers, body cell counts {15: 25}; 25 rows extracted
+23:53:11 | INFO    | SAVED 25 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Yankees_1927\hitting.csv
+23:53:11 | INFO    | Completed hitting in 2.2 seconds
+23:53:13 | INFO    | Selenium quit finished
+23:53:13 | INFO    | Verified browser and ChromeDriver processes exited
+23:53:13 | INFO    | Waiting 10.3 seconds before next request
+23:53:23 | INFO    | [4/12] Loading https://www.baseball-almanac.com/teamstats/pitching.php?t=NYA&y=1927
+23:53:25 | INFO    | Page verified: 1927 NEW YORK YANKEES PITCHING STATS
+23:53:26 | INFO    | Expected pitching table rows detected
+23:53:26 | INFO    | Capturing page HTML in one Selenium command
+23:53:26 | INFO    | Captured 79474 HTML characters; parsing locally
+23:53:26 | INFO    | Pitching: 15 headers, body cell counts {15: 10}; 10 rows extracted
+23:53:26 | INFO    | SAVED 10 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Yankees_1927\pitching.csv
+23:53:26 | INFO    | Completed pitching in 2.3 seconds
+23:53:28 | INFO    | Selenium quit finished
+23:53:28 | INFO    | Verified browser and ChromeDriver processes exited
+23:53:28 | INFO    | === Team: New York Mets (1986) ===
+23:53:28 | INFO    | Waiting 12.0 seconds before next request
+23:53:40 | INFO    | [5/12] Loading https://www.baseball-almanac.com/teamstats/roster.php?t=NYN&y=1986
+23:53:41 | INFO    | Page verified: ROSTER FOR THE 1986 NEW YORK METS
+23:53:41 | INFO    | Expected roster table rows detected
+23:53:41 | INFO    | Capturing page HTML in one Selenium command
+23:53:42 | INFO    | Captured 73443 HTML characters; parsing locally
+23:53:42 | INFO    | Roster position groups found: Catcher, Infielder, Outfielder, Pitcher
+23:53:42 | INFO    | Roster: 36 player records extracted
+23:53:42 | INFO    | SAVED 36 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Mets_1986\roster.csv
+23:53:42 | INFO    | Completed roster in 1.7 seconds
+23:53:44 | INFO    | Selenium quit finished
+23:53:44 | INFO    | Verified browser and ChromeDriver processes exited
+23:53:44 | INFO    | Waiting 10.5 seconds before next request
+23:53:54 | INFO    | [6/12] Loading https://www.baseball-almanac.com/teamstats/schedule.php?t=NYN&y=1986
+23:53:56 | INFO    | Page verified: 1986 NEW YORK METS SCHEDULE
+23:53:56 | INFO    | Expected schedule table rows detected
+23:53:56 | INFO    | Capturing page HTML in one Selenium command
+23:53:56 | INFO    | Captured 141503 HTML characters; parsing locally
+23:53:57 | INFO    | Schedule: 167 tbody rows, 162 data rows, 0 skipped
+23:53:57 | INFO    | SAVED 162 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Mets_1986\schedule.csv
+23:53:57 | INFO    | Completed schedule in 2.0 seconds
+23:53:59 | INFO    | Selenium quit finished
+23:53:59 | INFO    | Verified browser and ChromeDriver processes exited
+23:53:59 | INFO    | Waiting 9.6 seconds before next request
+23:54:09 | INFO    | [7/12] Loading https://www.baseball-almanac.com/teamstats/hitting.php?t=NYN&y=1986
+23:54:11 | INFO    | Page verified: 1986 NEW YORK METS HITTING STATS
+23:54:11 | INFO    | Expected hitting table rows detected
+23:54:11 | INFO    | Capturing page HTML in one Selenium command
+23:54:11 | INFO    | Captured 112673 HTML characters; parsing locally
+23:54:11 | INFO    | Hitting: 15 headers, body cell counts {15: 36}; 36 rows extracted
+23:54:11 | INFO    | SAVED 36 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Mets_1986\hitting.csv
+23:54:11 | INFO    | Completed hitting in 2.3 seconds
+23:54:13 | INFO    | Selenium quit finished
+23:54:13 | INFO    | Verified browser and ChromeDriver processes exited
+23:54:13 | INFO    | Waiting 12.5 seconds before next request
+23:54:26 | INFO    | [8/12] Loading https://www.baseball-almanac.com/teamstats/pitching.php?t=NYN&y=1986
+23:54:27 | INFO    | Page verified: 1986 NEW YORK METS PITCHING STATS
+23:54:27 | INFO    | Expected pitching table rows detected
+23:54:27 | INFO    | Capturing page HTML in one Selenium command
+23:54:27 | INFO    | Captured 45075 HTML characters; parsing locally
+23:54:27 | INFO    | Pitching: 15 headers, body cell counts {15: 15}; 15 rows extracted
+23:54:27 | INFO    | SAVED 15 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Mets_1986\pitching.csv
+23:54:27 | INFO    | Completed pitching in 1.7 seconds
+23:54:30 | INFO    | Selenium quit finished
+23:54:30 | INFO    | Verified browser and ChromeDriver processes exited
+23:54:30 | INFO    | === Team: New York Giants (1905) ===
+23:54:30 | INFO    | Waiting 14.1 seconds before next request
+23:54:44 | INFO    | [9/12] Loading https://www.baseball-almanac.com/teamstats/roster.php?t=NY1&y=1905
+23:54:46 | INFO    | Page verified: ROSTER FOR THE 1905 NEW YORK GIANTS
+23:54:46 | INFO    | Expected roster table rows detected
+23:54:46 | INFO    | Capturing page HTML in one Selenium command
+23:54:46 | INFO    | Captured 56378 HTML characters; parsing locally
+23:54:46 | INFO    | Roster position groups found: Catcher, Infielder, Outfielder, Pitcher
+23:54:46 | INFO    | Roster: 21 player records extracted
+23:54:46 | INFO    | SAVED 21 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Giants_1905\roster.csv
+23:54:46 | INFO    | Completed roster in 1.8 seconds
+23:54:48 | INFO    | Selenium quit finished
+23:54:48 | INFO    | Verified browser and ChromeDriver processes exited
+23:54:48 | INFO    | Waiting 12.2 seconds before next request
+23:55:00 | INFO    | [10/12] Loading https://www.baseball-almanac.com/teamstats/schedule.php?t=NY1&y=1905
+23:55:02 | INFO    | Page verified: 1905 NEW YORK GIANTS SCHEDULE
+23:55:02 | INFO    | Expected schedule table rows detected
+23:55:02 | INFO    | Capturing page HTML in one Selenium command
+23:55:03 | INFO    | Captured 140377 HTML characters; parsing locally
+23:55:03 | INFO    | Schedule: 160 tbody rows, 155 data rows, 0 skipped
+23:55:03 | INFO    | SAVED 155 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Giants_1905\schedule.csv
+23:55:03 | INFO    | Completed schedule in 2.4 seconds
+23:55:05 | INFO    | Selenium quit finished
+23:55:05 | INFO    | Verified browser and ChromeDriver processes exited
+23:55:05 | INFO    | Waiting 12.1 seconds before next request
+23:55:17 | INFO    | [11/12] Loading https://www.baseball-almanac.com/teamstats/hitting.php?t=NY1&y=1905
+23:55:19 | INFO    | Page verified: 1905 NEW YORK GIANTS HITTING STATS
+23:55:19 | INFO    | Expected hitting table rows detected
+23:55:19 | INFO    | Capturing page HTML in one Selenium command
+23:55:19 | INFO    | Captured 54761 HTML characters; parsing locally
+23:55:19 | INFO    | Hitting: 15 headers, body cell counts {15: 21}; 21 rows extracted
+23:55:19 | INFO    | SAVED 21 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Giants_1905\hitting.csv
+23:55:19 | INFO    | Completed hitting in 1.9 seconds
+23:55:21 | INFO    | Selenium quit finished
+23:55:21 | INFO    | Verified browser and ChromeDriver processes exited
+23:55:21 | INFO    | Waiting 13.8 seconds before next request
+23:55:35 | INFO    | [12/12] Loading https://www.baseball-almanac.com/teamstats/pitching.php?t=NY1&y=1905
+23:55:37 | INFO    | Page verified: 1905 NEW YORK GIANTS PITCHING STATS
+23:55:37 | INFO    | Expected pitching table rows detected
+23:55:37 | INFO    | Capturing page HTML in one Selenium command
+23:55:37 | INFO    | Captured 75625 HTML characters; parsing locally
+23:55:37 | INFO    | Pitching: 15 headers, body cell counts {15: 6}; 6 rows extracted
+23:55:37 | INFO    | SAVED 6 rows -> C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\New_York_Giants_1905\pitching.csv
+23:55:37 | INFO    | Completed pitching in 2.4 seconds
+23:55:40 | INFO    | Selenium quit finished
+23:55:40 | INFO    | Verified browser and ChromeDriver processes exited
+23:55:40 | INFO    | Finished: 12 saved, 0 empty, 0 failed, 12 page requests; elapsed 198.1 seconds
+23:55:40 | INFO    | Full status log: C:\Users\willv\projects\CTD_Final-will-vasq\pipeline\baseball_data\scraper_status.log

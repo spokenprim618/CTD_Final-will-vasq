@@ -1,0 +1,156 @@
+﻿Game,Date,Opponent,Score,Decision,Record
+1,04-14-1905,vs Boston Beaneaters,10-1,W,1-0
+2,04-15-1905,vs Boston Beaneaters,15-0,W,2-0
+3,04-19-1905,vs Philadelphia Phillies,6-5,W,3-0
+4,04-20-1905,vs Philadelphia Phillies,3-4,L,3-1
+5,04-22-1905,at Philadelphia Phillies,10-2,W,4-1
+6,04-24-1905,at Philadelphia Phillies,5-4,W,5-1
+7,04-25-1905,at Philadelphia Phillies,8-1,W,6-1
+8,04-26-1905,at Brooklyn Superbas,2-3,L,6-2
+9,04-27-1905,at Brooklyn Superbas,4-0,W,7-2
+10,04-28-1905,at Brooklyn Superbas,2-3,L,7-3
+11,04-30-1905,at Brooklyn Superbas,5-3,W,8-3
+12,05-01-1905,at Boston Beaneaters,8-2,W,9-3
+13,05-02-1905,at Boston Beaneaters,7-6,W,10-3
+14,05-03-1905,at Boston Beaneaters,16-3,W,11-3
+15,05-04-1905,at Boston Beaneaters,6-1,W,12-3
+16,05-05-1905,vs Boston Beaneaters,5-1,W,13-3
+17,05-06-1905,vs Boston Beaneaters,1-2,L,13-4
+18,05-08-1905,vs Boston Beaneaters,9-1,W,14-4
+19,05-09-1905,vs St. Louis Cardinals,7-8,L,14-5
+20,05-10-1905,vs St. Louis Cardinals,4-3,W,15-5
+21,05-11-1905,vs St. Louis Cardinals,4-0,W,16-5
+22,05-12-1905,vs St. Louis Cardinals,6-5,W,17-5
+23,05-13-1905,vs Chicago Cubs,1-0,W,18-5
+24,05-15-1905,vs Chicago Cubs,4-0,W,19-5
+25,05-16-1905,vs Chicago Cubs,4-0,W,20-5
+26,05-17-1905,vs Chicago Cubs,4-2,W,21-5
+27,05-18-1905,vs Pittsburgh Pirates,2-7,L,21-6
+28,05-19-1905,vs Pittsburgh Pirates,7-1,W,22-6
+29,05-20-1905,vs Pittsburgh Pirates,5-4,W,23-6
+30,05-22-1905,vs Pittsburgh Pirates,2-1,W,24-6
+31,05-23-1905,vs Cincinnati Reds,7-0,W,25-6
+32,05-24-1905,vs Cincinnati Reds,3-4,L,25-7
+33,05-25-1905,vs Cincinnati Reds,1-5,L,25-8
+34,05-26-1905,vs Brooklyn Superbas,6-0,W,26-8
+35,05-27-1905,vs Brooklyn Superbas,4-1,W,27-8
+36,05-29-1905,vs Brooklyn Superbas,8-5,W,28-8
+37-I,05-30-1905,vs Brooklyn Superbas,7-2,W,29-8
+38-II,05-30-1905,vs Brooklyn Superbas,3-4,L,29-9
+39,05-31-1905,at Brooklyn Superbas,3-0,W,30-9
+40,06-01-1905,at Boston Beaneaters,8-2,W,31-9
+41,06-02-1905,at Boston Beaneaters,8-3,W,32-9
+42-I,06-03-1905,at Boston Beaneaters,0-2,L,32-10
+43-II,06-03-1905,at Boston Beaneaters,8-3,W,33-10
+44,06-05-1905,at Boston Beaneaters,11-2,W,34-10
+45,06-07-1905,at Pittsburgh Pirates,5-3,W,35-10
+46,06-08-1905,at Pittsburgh Pirates,1-4,L,35-11
+47,06-09-1905,at Pittsburgh Pirates,6-12,L,35-12
+48,06-10-1905,at Pittsburgh Pirates,5-0,W,36-12
+49,06-11-1905,at Chicago Cubs,0-4,L,36-13
+50,06-12-1905,at Chicago Cubs,1-5,L,36-14
+51,06-13-1905,at Chicago Cubs,1-0,W,37-14
+52,06-14-1905,at Chicago Cubs,0-1,L,37-15
+53,06-15-1905,at St. Louis Cardinals,4-5,L,37-16
+54,06-16-1905,at St. Louis Cardinals,9-4,W,38-16
+55,06-17-1905,at St. Louis Cardinals,7-2,W,39-16
+56,06-18-1905,at St. Louis Cardinals,2-8,L,39-17
+57,06-19-1905,at Cincinnati Reds,7-17,L,39-18
+58,06-20-1905,at Cincinnati Reds,8-3,W,40-18
+59,06-21-1905,at Cincinnati Reds,6-3,W,41-18
+60,06-22-1905,at Cincinnati Reds,2-1,W,42-18
+61,06-24-1905,vs Boston Beaneaters,2-1,W,43-18
+62,06-26-1905,vs Boston Beaneaters,10-3,W,44-18
+63,06-27-1905,vs Boston Beaneaters,2-1,W,45-18
+64,06-28-1905,at Brooklyn Superbas,8-4,W,46-18
+65,06-29-1905,at Brooklyn Superbas,11-1,W,47-18
+66,06-30-1905,at Brooklyn Superbas,5-6,L,47-19
+67,07-01-1905,at Brooklyn Superbas,7-5,W,48-19
+68,07-03-1905,at Philadelphia Phillies,9-1,W,49-19
+69-I,07-04-1905,at Philadelphia Phillies,0-2,L,49-20
+70-II,07-04-1905,at Philadelphia Phillies,6-3,W,50-20
+71,07-05-1905,at Philadelphia Phillies,9-7,W,51-20
+72,07-06-1905,vs Brooklyn Superbas,8-1,W,52-20
+73,07-07-1905,vs Brooklyn Superbas,2-6,L,52-21
+74,07-11-1905,vs Chicago Cubs,6-5,W,53-21
+75,07-12-1905,vs Chicago Cubs,1-8,L,53-22
+76,07-13-1905,vs Chicago Cubs,4-1,W,54-22
+77,07-14-1905,vs Chicago Cubs,3-2,W,55-22
+78,07-15-1905,vs Pittsburgh Pirates,8-7,W,56-22
+79,07-17-1905,vs Pittsburgh Pirates,0-3,L,56-23
+80,07-18-1905,vs Pittsburgh Pirates,1-2,L,56-24
+81,07-19-1905,vs Pittsburgh Pirates,5-8,L,56-25
+82-I,07-20-1905,vs St. Louis Cardinals,7-4,W,57-25
+83-II,07-20-1905,vs St. Louis Cardinals,2-1,W,58-25
+84,07-21-1905,vs St. Louis Cardinals,14-2,W,59-25
+85,07-22-1905,vs St. Louis Cardinals,9-4,W,60-25
+86,07-24-1905,vs Cincinnati Reds,4-3,W,61-25
+87,07-25-1905,vs Cincinnati Reds,7-2,W,62-25
+88,07-26-1905,vs Cincinnati Reds,6-5,W,63-25
+89,07-27-1905,vs Cincinnati Reds,9-3,W,64-25
+90,07-29-1905,at Cincinnati Reds,3-0,W,65-25
+91,07-30-1905,at Cincinnati Reds,6-2,W,66-25
+92,07-31-1905,at Cincinnati Reds,6-2,W,67-25
+93,08-01-1905,at Cincinnati Reds,10-5,W,68-25
+94,08-02-1905,at Pittsburgh Pirates,3-1,W,69-25
+95,08-03-1905,at Pittsburgh Pirates,4-10,L,69-26
+96,08-04-1905,at Pittsburgh Pirates,5-7,L,69-27
+97,08-05-1905,at Pittsburgh Pirates,5-5,L F,69-28
+98,08-07-1905,at Chicago Cubs,0-4,L,69-29
+99,08-08-1905,at Chicago Cubs,4-3,W,70-29
+100,08-09-1905,at Chicago Cubs,2-7,L,70-30
+101,08-10-1905,at Chicago Cubs,1-0,W,71-30
+102,08-11-1905,at St. Louis Cardinals,7-1,W,72-30
+103,08-12-1905,at St. Louis Cardinals,2-0,W,73-30
+104-I,08-13-1905,at St. Louis Cardinals,10-1,W,74-30
+105-II,08-13-1905,at St. Louis Cardinals,0-5,L,74-31
+106,08-17-1905,vs Chicago Cubs,3-0,W,75-31
+107,08-18-1905,vs Chicago Cubs,5-4,W,76-31
+108,08-19-1905,vs Chicago Cubs,2-8,L,76-32
+109,08-21-1905,vs Pittsburgh Pirates,10-2,W,77-32
+110,08-22-1905,vs Pittsburgh Pirates,1-5,L,77-33
+111,08-23-1905,vs Pittsburgh Pirates,7-2,W,78-33
+112-I,08-24-1905,vs Cincinnati Reds,8-0,W,79-33
+113-II,08-24-1905,vs Cincinnati Reds,6-6,T,79-33-1
+114-I,08-26-1905,vs Cincinnati Reds,2-0,W,80-33-1
+115-II,08-26-1905,vs Cincinnati Reds,6-5,W,81-33-1
+116,08-28-1905,vs St. Louis Cardinals,8-1,W,82-33-1
+117,08-29-1905,vs St. Louis Cardinals,5-4,W,83-33-1
+118,08-31-1905,vs Philadelphia Phillies,5-8,L,83-34-1
+119,09-01-1905,vs Philadelphia Phillies,4-1,W,84-34-1
+120-I,09-04-1905,vs Philadelphia Phillies,7-1,W,85-34-1
+121-II,09-04-1905,vs Philadelphia Phillies,11-6,W,86-34-1
+122-I,09-07-1905,vs Boston Beaneaters,0-1,L,86-35-1
+123-II,09-07-1905,vs Boston Beaneaters,3-0,W,87-35-1
+124,09-08-1905,vs Boston Beaneaters,6-3,W,88-35-1
+125-I,09-09-1905,vs Brooklyn Superbas,4-2,W,89-35-1
+126-II,09-09-1905,vs Brooklyn Superbas,5-6,L,89-36-1
+127-I,09-12-1905,vs Brooklyn Superbas,3-2,W,90-36-1
+128-II,09-12-1905,vs Brooklyn Superbas,5-8,L,90-37-1
+129,09-13-1905,at Brooklyn Superbas,5-4,W,91-37-1
+130,09-14-1905,at Brooklyn Superbas,10-2,W,92-37-1
+131-I,09-16-1905,at Boston Beaneaters,7-1,W,93-37-1
+132-II,09-16-1905,at Boston Beaneaters,3-1,W,94-37-1
+133-I,09-19-1905,at Philadelphia Phillies,2-3,L,94-38-1
+134-II,09-19-1905,at Philadelphia Phillies,2-1,W,95-38-1
+135-I,09-20-1905,at Philadelphia Phillies,6-3,W,96-38-1
+136-II,09-20-1905,at Philadelphia Phillies,1-7,L,96-39-1
+137,09-22-1905,at Chicago Cubs,4-7,L,96-40-1
+138,09-23-1905,at Chicago Cubs,0-1,L,96-41-1
+139,09-24-1905,at Chicago Cubs,5-10,L,96-42-1
+140,09-25-1905,at Pittsburgh Pirates,10-4,W,97-42-1
+141,09-26-1905,at Pittsburgh Pirates,9-5,W,98-42-1
+142,09-27-1905,at Pittsburgh Pirates,5-3,W,99-42-1
+143,09-28-1905,at St. Louis Cardinals,0-1,L,99-43-1
+144-I,09-29-1905,at St. Louis Cardinals,6-5,W,100-43-1
+145-II,09-29-1905,at St. Louis Cardinals,5-1,W,101-43-1
+146,09-30-1905,at St. Louis Cardinals,9-2,W,102-43-1
+147-I,10-01-1905,at Cincinnati Reds,5-4,W,103-43-1
+148-II,10-01-1905,at Cincinnati Reds,3-4,L,103-44-1
+149-I,10-03-1905,at Cincinnati Reds,2-4,L,103-45-1
+150-II,10-03-1905,at Cincinnati Reds,4-4,T,103-45-2
+151-I,10-05-1905,vs Philadelphia Phillies,1-4,L,103-46-2
+152-II,10-05-1905,vs Philadelphia Phillies,5-3,W,104-46-2
+153,10-06-1905,vs Philadelphia Phillies,4-5,L,104-47-2
+154-I,10-07-1905,vs Philadelphia Phillies,4-3,W,105-47-2
+155-II,10-07-1905,vs Philadelphia Phillies,1-6,L,105-48-2
